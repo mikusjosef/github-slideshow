@@ -2,5 +2,4 @@
        layout: slide
        title: "Welcome to our second slide!"
        ---
-       Your text
-       Use the left arrow to go back!
+    float like a butterfly sting like a bee
